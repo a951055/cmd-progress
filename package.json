@@ -1,0 +1,9 @@
+{
+  "name": "cmd-progress",
+  "version": "1.0.1",
+  "description": "cmd print progress utils",
+  "main": "index.js",
+  "repository": "https://github.com/a951055/cmd-progress",
+  "author": "Halo",
+  "license": "MIT"
+}
